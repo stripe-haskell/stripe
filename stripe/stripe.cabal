@@ -3,11 +3,11 @@ version:             2.0.0
 synopsis:            Stripe API for Haskell
 license:             MIT
 license-file:        LICENSE
-author:              David Johnson
+author:              David Johnson, Jeremy Shaw
 maintainer:          djohnson.m@gmail.com
-copyright:           Copyright (c) 2014 David M. Johnson
-homepage:            https://github.com/dmjio/stripe-haskell
-bug-reports:         https://github.com/dmjio/stripe-haskell/issues
+copyright:           Copyright (c) 2015 David M. Johnson
+homepage:            https://github.com/stripe-haskell/stripe
+bug-reports:         https://github.com/stripe-haskell/stripe/issues
 category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
@@ -102,7 +102,7 @@ Description:
     >     Right coupon     -> print $ couponMetaData coupon
     >     Left stripeError -> print stripeError
     .
-    [Issues - <https://github.com/dmjio/stripe-haskell/issues>]
+    [Issues - <https://github.com/stripe-haskell/stripe/issues>]
     Any API recommendations or bugs can be reported on the GitHub issue tracker.
     Pull requests welcome!
     .
@@ -122,5 +122,5 @@ library
 
 source-repository head
   type:     git
-  location: git://github.com/dmjio/stripe-haskell.git
+  location: git://github.com/stripe-haskell/stripe.git
   subdir: stripe
