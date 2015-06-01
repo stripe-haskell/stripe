@@ -15,14 +15,14 @@ Description:
     .
     <<https://stripe.com/img/navigation/logo@2x.png>>
     .
-    [100% Stripe API Coverage - <https://stripe.com/docs/api>]
-    All Stripe commands are supported,
+    [Stripe API Coverage - <https://stripe.com/docs/api>]
+    Most common Stripe commands are supported,
     including but not limited to Charges, Refunds, Customers, Cards,
     Subscriptions, Plans, Coupons, Discounts, Invoices, Invoice Items,
     Disputes, Transfers, Recipients, Application Fees, Application Fee Refunds,
     Account, Balance, Events and Tokens.
     .
-    [100% Haddock Coverage]
+    [Haddock Coverage]
     All code written for this library is documented to completion with the haddock documentation tool
     .
     [100+ Hspec Tests] Thoroughly unit-tested with hspec.

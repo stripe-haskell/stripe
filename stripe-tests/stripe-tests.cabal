@@ -23,7 +23,7 @@ Description:
 library
   hs-source-dirs:      tests
   build-depends:       aeson                >= 0.8   && < 0.9
-                     , base                 >= 4.7   && < 4.8
+                     , base                 >= 4.7   && < 5
                      , bytestring           >= 0.10  && < 0.11
                      , free                 >= 4.10  && < 4.11
                      , mtl                  >= 2.1.2 && < 2.3

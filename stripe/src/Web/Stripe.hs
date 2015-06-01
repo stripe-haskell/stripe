@@ -1,7 +1,7 @@
 -------------------------------------------
 -- |
 -- Module      : Web.Stripe
--- Copyright   : (c) David Johnson, 2014
+-- Copyright   : (c) David Johnson, Jeremy Shaw 2015
 -- Maintainer  : djohnson.m@gmail.com
 -- Stability   : experimental
 -- Portability : POSIX
